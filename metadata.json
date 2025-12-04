@@ -1,0 +1,7 @@
+{
+  "name": "QaseemAiwala",
+  "description": "An Urdu-based Islamic scholar assistant for verifying Hadith using voice interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
